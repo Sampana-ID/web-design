@@ -642,7 +642,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   transform: translateY(-50%);
 }
 
-.portfolio-grid .row > div .card .portfolio-over .card-title {
+.portfolio-grid .row > div .card .portfolio-over .card-title-home {
   color: #fff;
   font-size: 30px;
 }
@@ -713,7 +713,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   background-color: #199EB8;
 }
 
-.team .card:hover .card-title-wrap .card-title, .team .card:hover .card-title-wrap .card-text {
+.team .card:hover .card-title-wrap .card-title-home, .team .card:hover .card-title-wrap .card-text {
   color: #fff;
 }
 
@@ -741,13 +741,13 @@ body.mobile-nav-active #mobile-nav-toggle {
   background-color: #fff;
 }
 
-.team .card-title-wrap .card-title, .team .card-title-wrap .card-text {
+.team .card-title-wrap .card-title-home, .team .card-title-wrap .card-text {
   font-family: "Raleway", Helvetica, Arial, sans-serif;
   display: block;
   margin: 0;
 }
 
-.team .card-title-wrap .card-title {
+.team .card-title-wrap .card-title-home {
   font-size: 24px;
   color: #333;
 }
@@ -945,7 +945,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   .feature-col {
     padding-bottom: 30px;
   }
-  .portfolio-grid .card h3.card-title {
+  .portfolio-grid .card h3.card-title-home {
     font-size: 18px !important;
   }
   .portfolio-grid .card .card-text {
